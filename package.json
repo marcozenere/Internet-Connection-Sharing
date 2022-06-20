@@ -1,0 +1,23 @@
+{
+  "name": "internet_sharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.16.0",
+    "aws-sdk": "^2.907.0",
+    "ws": "^7.4.6"
+  }
+}

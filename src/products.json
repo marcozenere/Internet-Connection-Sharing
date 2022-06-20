@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Internet Connection 1",
+    "picture": "images/internet-connection.jpg",
+    "duration": 24,
+    "price": 0.0058397,
+    "owner": "0xcF6D58aB3c63093D96237c6bf3752eb0ebaF4224"
+  },
+  {
+    "id": 1,
+    "name": "Internet Connection 2",
+    "picture": "images/internet-connection.jpg",
+    "duration": 12,
+    "price": 0.00291985,
+    "owner": "0xcF6D58aB3c63093D96237c6bf3752eb0ebaF4224"
+  },
+  {
+    "id": 2,
+    "name": "Internet Connection 3",
+    "picture": "images/internet-connection.jpg",
+    "duration": 6,
+    "price": 0.00145993,
+    "owner": "0xcF6D58aB3c63093D96237c6bf3752eb0ebaF4224"
+  },
+  {
+    "id": 3,
+    "name": "Internet Connection 4",
+    "picture": "images/internet-connection.jpg",
+    "duration": 3,
+    "price": 0.00072996,
+    "owner": "0xcF6D58aB3c63093D96237c6bf3752eb0ebaF4224"
+  },
+  {
+    "id": 4,
+    "name": "Internet Connection 5",
+    "picture": "images/internet-connection.jpg",
+    "duration": 1,
+    "price": 0.0003679,
+    "owner": "0xcF6D58aB3c63093D96237c6bf3752eb0ebaF4224"
+  }
+]
